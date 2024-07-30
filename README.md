@@ -8,7 +8,7 @@
    </picture>
 </a>
 
-# pic18f57q43-timer-toggle-led-callbacks-mcc
+# pic18f57q43-timer-toggle-led-polled-mcc
 
 The [TIMER Toggle LED example](https://onlinedocs.microchip.com/v2/keyword-lookup?keyword=MCC.MELODY.EXAMPLES.RUNNING.TIMER.PIC16F18F.TOGGLE.LED&version=latest&redirect=true
 ), of the MCC Melody Timer Example Component, is used in the **Polled implementation**.  The LED on the PIC18F57Q43 Curiosity Nano is toggled, as well as a Debug IO, which can be used to verify the 100 ms period. 
