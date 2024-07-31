@@ -4,10 +4,10 @@
     "content": {
         "metaDataVersion": "1.3.0",
         "name": "com.microchip.mcu8.mplabx.project.pic18f57q43-timer-toggle-led-polled-mcc",
-        "version": " ",
-        "displayName": "",
+        "version": "1.0.0",
+        "displayName": "pic18f57q43-timer-toggle-led-polled-mcc",
         "projectName": "pic18f57q43-timer-toggle-led-polled-mcc",
-        "shortDescription": "The TIMER Toggle LED example, of the MCC Melody Timer Example Component, is used in the Polled implementation. The LED on the PIC18F57Q43 Curiosity Nanois toggled, as well as a Debug IO, which can be used to verify the 100 ms period.\r\n\r\n",
+        "shortDescription": "The TIMER Toggle LED example, of the MCC Melody Timer Example Component, is used in the Polled implementation. The LED on the PIC18F57Q43 Curiosity Nanois toggled, as well as a Debug IO, which can be used to verify the 100 ms period.",
         "ide": {
             "name": "MPLAB X",
             "semverRange": ">=6.20.0"
@@ -23,7 +23,7 @@
             "semverRange": ""
         },
         "configurator": {
-            "name": "",
+            "name": "MCC",
             "semverRange": ""
         },
         "device": {
@@ -37,8 +37,18 @@
             }
         },
         "author": "Glen Nilsen",
-        "peripherals": [],
-        "keywords": [],
+        "peripherals": [
+            "TMR",
+            "GPIO"
+        ],
+        "keywords": [
+            "Data Visualizer",
+            "MPLAB Data Visualizer",
+            "Timer",
+            "Getting Started",
+            "Melody",
+            "MCC Melody"
+        ],
         "additionalData": {
             "longDescription": {
                 "metaDataVersion": "1.0.0",
