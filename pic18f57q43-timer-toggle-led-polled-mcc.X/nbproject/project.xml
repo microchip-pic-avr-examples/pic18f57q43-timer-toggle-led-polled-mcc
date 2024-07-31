@@ -4,18 +4,14 @@
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
             <name>pic18f57q43-timer-toggle-led-polled-mcc</name>
-            <creation-uuid>86555c3c-7a7e-44f4-9632-9e4ba3fe7c63</creation-uuid>
+            <creation-uuid>4de75351-120f-48a5-a490-a54cb51d241b</creation-uuid>
             <make-project-type>0</make-project-type>
             <sourceEncoding>ISO-8859-1</sourceEncoding>
             <make-dep-projects/>
             <sourceRootList/>
             <confList>
                 <confElem>
-                    <name>free</name>
-                    <type>2</type>
-                </confElem>
-                <confElem>
-                    <name>pro</name>
+                    <name>default</name>
                     <type>2</type>
                 </confElem>
             </confList>

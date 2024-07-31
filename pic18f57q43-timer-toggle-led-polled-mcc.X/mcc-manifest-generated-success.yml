@@ -2,7 +2,7 @@
 
 manifest_file_version: 1.0.0
 project: pic18f57q43-timer-toggle-led-polled-mcc
-creation_date: 2024-07-30T15:50:58.187+02:00[Europe/Paris]
+creation_date: 2024-07-31T10:23:07.771+02:00[Europe/Paris]
 operating_system: Windows 10
 mcc_mode: IDE
 mcc_mode_version: v6.20
@@ -13,7 +13,7 @@ mcc_core_version: 5.7.1
 content_manager_version: 5.0.1-c
 is_mcc_offline: false
 is_using_prerelease_versions: false
-mcc_content_registries: https://registry.npmjs.org/, https://artifacts.microchip.com/artifactory/api/npm/npm/
+mcc_content_registries: https://registry.npmjs.org/
 device_library: {library_class: com.microchip.mcc.melody.Library, name: Melody, version: 2.7.1}
 packs: {name: PIC18F-Q_DFP, version: 1.25.433}
 modules:
