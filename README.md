@@ -66,7 +66,7 @@ Once you have loaded the project in MPLAB X IDE, you will also be able to find m
 The image below shows the [TIMER Toggle LED example](https://onlinedocs.microchip.com/v2/keyword-lookup?keyword=MCC.MELODY.EXAMPLES.RUNNING.TIMER.PIC16F18F.TOGGLE.LED&version=latest&redirect=true
 ) running. The period of 100 ms is verified using Debug GPIO on the MPLAB Data Visualizer. A PIC18F57Q43 Curiosity Nano is used.
 
-Note: Achieve the same functionality by adding the Timer Example Component to a new or existing MCC Melody project, for one of the supported microcontrollers.  
+**Note:** Achieve the same functionality by adding the Timer Example Component to a new or existing MCC Melody project, for one of the supported microcontrollers.  
 
 ![Running the Timer Toogle LED example](images/RunningTimerToggleLED_15cm.png)
 
@@ -82,7 +82,7 @@ A logic analyzer can be used instead of Debug GPIO on the MPLAB Data Visualizer.
 ## Summary
 
 <!-- Summarize what the example has shown -->
-For more example components, open the stand-alone Content Mangager in MCC ![CM_icon](images/CM_icon.png) . 
+For more example components, open the stand-alone Content Mangager ![CM_icon](images/CM_icon.png) in MCC. 
 
 ![Standalone_CM](images/MCC_ContentManager_Examples_18cm.png) 
 
