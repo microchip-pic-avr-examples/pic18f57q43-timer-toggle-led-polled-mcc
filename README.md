@@ -23,7 +23,7 @@ Example Components are a tight integration of learning material directly into MC
 ![MCC Melody Example Components](images/GUID-ADDC2E58-F16C-46BD-A42F-D8FF02459622-high_12cm.png)
 
 
-Completele projects, such as this one, available in [MPLAB® Discover](https://mplab-discover.microchip.com), or GitHub, are specific to a board and microcontroller. However, this project could be re-created following the steps in the example component, on a range of supported microcontrollers. Furthermore, the functionality of this example could be added to an existing project. 
+Complete projects, such as this one, available in [MPLAB® Discover](https://mplab-discover.microchip.com), or GitHub, are specific to a board and microcontroller. However, this project could be re-created following the steps in the example component, on a range of supported microcontrollers. Furthermore, the functionality of this example could be added to an existing project.
 
 To explore what an example component is, as well as the difference between example and implementation, see - [MCC Melody Example Components - The Basics](https://onlinedocs.microchip.com/v2/keyword-lookup?keyword=MCC.MELODY.EXAMPLES.BASICS&version=latest&redirect=true).
 
