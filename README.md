@@ -33,13 +33,13 @@ Example Components are related to [MCC Melody Design Patterns for Control Flow](
 
 ## Software Used
 
-- MPLAB® X IDE 6.20.0 or newer ([MPLAB® X IDE 6.20](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide))
-- MPLAB® XC8 2.46.0 or newer ([MPLAB® XC8 2.46](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers/xc8))
+- MPLAB® X IDE 6.20.0 or newer [(MPLAB® X IDE 6.20)](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide)
+- MPLAB® XC8 2.46.0 or newer [(MPLAB® XC8 2.46)](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers/xc8)
 
 ## Hardware Used
 
-- PIC18F57Q43 Curiosity Nano ([DM164150](https://www.microchip.com/en-us/development-tool/DM164150))
-- Curiosity Nano Explorer ([EV58G97A](https://www.microchip.com/en-us/development-tool/EV58G97A))
+- PIC18F57Q43 Curiosity Nano [(DM164150)](https://www.microchip.com/en-us/development-tool/DM164150)
+- Curiosity Nano Explorer [(EV58G97A)](https://www.microchip.com/en-us/development-tool/EV58G97A)
 
 <!-- All hardware used in this example must be listed here. Use unbreakable links!
      - PIC18F47Q10 Curiosity Nano [(DM182029)](https://www.microchip.com/Developmenttools/ProductDetails/DM182029)
