@@ -44,6 +44,7 @@ Example Components are related to [MCC Melody Design Patterns for Control Flow](
 
 ## Hardware Used
 - PIC18F57Q43 Curiosity Nano [(DM164150)](https://www.microchip.com/en-us/development-tool/DM164150)
+- Curiosity Nano Explorer [(EV58G97A)](https://www.microchip.com/en-us/development-tool/EV58G97A) - Not used in this example, but used futher in the series. 
 
 
 ## Setup
