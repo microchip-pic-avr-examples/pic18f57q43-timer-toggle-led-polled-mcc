@@ -6,16 +6,16 @@
    </picture>
 </a>
 
-# MCC Melody Timer Toggle LED Example, Polled Implementation (PIC18F57Q43)
+# MCC Melody Timer Toggle LED Example - Polled Implementation (PIC18F57Q43)
 
 The [TIMER Toggle LED example](https://onlinedocs.microchip.com/v2/keyword-lookup?keyword=MCC.MELODY.EXAMPLES.RUNNING.TIMER.PIC16F18F.TOGGLE.LED&version=latest&redirect=true
-), of the MCC Melody Timer Example Component, is used in the **Polled Implementation**.  The LED on the PIC18F57Q43 Curiosity Nano is toggled, as well as a Debug I/O, which can be used to verify the 100 ms period. 
+), of the MCC Melody Timer Example Component, is used in the Polled Implementation.  The LED on the PIC18F57Q43 Curiosity Nano is toggled, as well as a Debug I/O, which can be used to verify the 100 ms period. 
 
 ## MCC Melody Example Components
 Example Components are a tight integration of learning material directly into MCC. This allows users to conveniently place configuration instructions side-by-side to the components they are configuring. For more information, refer to the [MCC Melody Example Components Introduction](https://onlinedocs.microchip.com/v2/keyword-lookup?keyword=MCC.MELODY.EXAMPLES&version=latest&redirect=true). 
 
 
-![MCC Melody Example Components](images/GUID-ADDC2E58-F16C-46BD-A42F-D8FF02459622-high_12cm.png)
+![MCC Melody Example Components](images/TIMERToggleLED-PolledImplementation_12cm.png)
 
 
 Complete projects, available in [MPLAB® Discover](https://mplab-discover.microchip.com) or GitHub, are specific to a board and microcontroller. However, the current project could be recreated on a range of supported microcontrollers by following the steps in the example component.
@@ -40,7 +40,6 @@ Example Components are related to [MCC Melody Design Patterns for Control Flow](
 
 ## Hardware Used
 - PIC18F57Q43 Curiosity Nano [(DM164150)](https://www.microchip.com/en-us/development-tool/DM164150)
-- Curiosity Nano Explorer [(EV58G97A)](https://www.microchip.com/en-us/development-tool/EV58G97A)
 
 
 ## Setup
