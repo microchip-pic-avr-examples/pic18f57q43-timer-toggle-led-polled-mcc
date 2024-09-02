@@ -11,6 +11,10 @@
 The [TIMER Toggle LED example](https://onlinedocs.microchip.com/v2/keyword-lookup?keyword=MCC.MELODY.EXAMPLES.RUNNING.TIMER.PIC16F18F.TOGGLE.LED&version=latest&redirect=true
 ), of the MCC Melody Timer Example Component, is used in the Polled Implementation.  The LED on the PIC18F57Q43 Curiosity Nano is toggled, as well as a Debug I/O, which can be used to verify the 100 ms period. 
 
+## Video Building this Example & Introducing MCC Melody Example Components 
+
+[![Video Building this Example](images/Video-TimerToggleLED-Polled.png "Change the values of these settings until the needed Requested Period is between the indicated min., max values.")](https://youtu.be/zK5jLiIIYvE)
+
 ## MCC Melody Example Components
 Example Components are a tight integration of learning material directly into MCC. This allows users to conveniently place configuration instructions side-by-side to the components they are configuring. For more information, refer to the [MCC Melody Example Components Introduction](https://onlinedocs.microchip.com/v2/keyword-lookup?keyword=MCC.MELODY.EXAMPLES&version=latest&redirect=true). 
 
@@ -64,6 +68,12 @@ The image below shows the [TIMER Toggle LED example](https://onlinedocs.microchi
 
 
 Two vertical cursors are added to verify the timer frequency. See the configuration instructions below.
+
+1) Click the ![Data Visualizer icon](images/Icon-MPLAB-DataVisualizer_1cm.png) icon to open the MPLAB Data Visualizer.
+2) Under Debug GPIO, click the ![Add to time plot icon](images/Icon-DataVisualizer_TimePlot.png "Display as raw data on time plot.") icon, to add to the time plot.
+3) Click the ![Data Visualizer Zoom in icon](images/Icon-DataVisualizer_ZoomIn.png) icon, a few times, to zoom in on the Time Plot.
+4) Click the ![Data Visualizer Vertical Cursor icon](images/Icon-DataVisualizer_VerticalCursor.png) icon, a couple of times, to add two vertical cursors. Change the cursor positions by dragging them using the mouse, to measure the timer period. 
+
  
 ![DataVisualizer config Timer Toggle LED](images/DataVisualizerConfigTimerToggle_LED_15cm.png)
 
