@@ -1,10 +1,5 @@
-<a target="_blank" href="https://www.microchip.com/" id="top-of-page">
-   <picture>
-      <source media="(prefers-color-scheme: light)" srcset="images/mchp_logo_light.png" width="350">
-      <source media="(prefers-color-scheme: dark)" srcset="images/mchp_logo_dark.png" width="350">
-      <img alt="Microchip Technologies Inc." src="https://www.microchip.com/content/experience-fragments/mchp/en_us/site/header/master/_jcr_content/root/responsivegrid/header/logo.coreimg.100.300.png/1605828081463/microchip.png">
-   </picture>
-</a>
+<a href="https://www.microchip.com" rel="nofollow"><img src="images/microchip.png" alt="MCHP" width="300"/></a>
+
 
 # MCC Melody Timer Toggle LED Example - Polled Implementation (PIC18F57Q43)
 
@@ -13,7 +8,7 @@ The [TIMER Toggle LED example](https://onlinedocs.microchip.com/v2/keyword-looku
 
 ## Video Building This Example & Introducing MCC Melody Example Components 
 
-[![Video Building this Example](images/Video-TimerToggleLED-Polled.png "Change the values of these settings until the needed Requested Period is between the indicated min., max values.")](https://youtu.be/zK5jLiIIYvE)
+[![Video Building this Example](images/Video-TimerToggleLED-Polled.png "Change the values of these settings until the needed Requested Period is between the indicated min., max values.")](https://www.youtube.com/watch?v=zK5jLiIIYvE&list=PLtQdQmNK_0DTA08RmyuJH4dyNrYGDGi0l)
 
 ## MCC Melody Example Components
 Example Components are a tight integration of learning material directly into MCC. This allows users to conveniently place configuration instructions side-by-side to the components they are configuring. For more information, refer to the [MCC Melody Example Components Introduction](https://onlinedocs.microchip.com/v2/keyword-lookup?keyword=MCC.MELODY.EXAMPLES&version=latest&redirect=true). 
