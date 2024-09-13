@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.3.0",
         "name": "com.microchip.mcu8.mplabx.project.pic18f57q43-timer-toggle-led-polled-mcc",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "displayName": "pic18f57q43-timer-toggle-led-polled-mcc",
         "projectName": "pic18f57q43-timer-toggle-led-polled-mcc",
         "shortDescription": "The TIMER Toggle LED example, of the MCC Melody Timer Example Component, is used in the Polled implementation. The LED on the PIC18F57Q43 Curiosity Nanois toggled, as well as a Debug IO, which can be used to verify the 100 ms period.",
@@ -27,10 +27,10 @@
             "semverRange": "^5.7.1"
         },
         "device": {
-            "metaDataVersion": "1.0.0",
+            "metaDataVersion": "1.0.1",
             "category": "com.microchip.portal.contentRef",
             "content": {
-                "metaDataVersion": "1.0.0",
+                "metaDataVersion": "1.0.1",
                 "category": "com.microchip.device",
                 "name": "PIC18F57Q43",
                 "versionRange": "*"
